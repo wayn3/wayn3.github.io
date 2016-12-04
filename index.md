@@ -2,20 +2,21 @@
 layout: default
 title: Wei Chen
 ---
-### basics
+#### basics
 * curriculum vitae in [pdf](cv.pdf).
 * github: [wayn3](http://github.com/wayn3).
 * citations: 
   [google scholar](https://scholar.google.com/citations?user=ouy6ESIAAAAJa),
   [orcid](http://orcid.org/0000-0002-7496-0341).
 
-### research interest
+#### research interests
 - electronic structure 
 - condensed matter physics
 - liquid systems
 - density functional theory
 - many-body perturbation theory
 - ab initio molecular dynamics
+- high-throughput computational screening
 
 {% for post in site.posts %}
 
