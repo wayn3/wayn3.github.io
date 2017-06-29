@@ -2,6 +2,7 @@
 layout: default
 title: Wei Chen
 ---
+
 #### basics
 * curriculum vitae in [pdf](cv.pdf).
 * github: [wayn3](http://github.com/wayn3).
