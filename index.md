@@ -5,7 +5,7 @@ title: Wei Chen
 
 #### basics
 * curriculum vitae in [pdf](cv.pdf).
-* github: [wayn3](http://github.com/wayn3).
+* github: [wch3n](http://github.com/wch3n).
 * citations: 
   [google scholar](https://scholar.google.com/citations?user=ouy6ESIAAAAJa),
   [orcid](http://orcid.org/0000-0002-7496-0341).
