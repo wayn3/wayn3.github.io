@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wei Chen
+title: Wei Chen #compphys
 ---
 
 #### basics
@@ -11,7 +11,7 @@ title: Wei Chen
   [orcid](http://orcid.org/0000-0002-7496-0341).
 
 #### research interests
-- condensed matter physics
+- computational condensed matter physics
 - electronic structure 
 - density functional theory
 - many-body perturbation theory
