@@ -1,1 +1,1 @@
-A minimal self-bragging github page.
+A minimal github page.
