@@ -4,19 +4,17 @@ title: Wei Chen
 ---
 
 #### basics
-* curriculum vitae in [pdf](cv.pdf).
+* curriculum vitae ([pdf](cv.pdf)).
 * github: [wch3n](http://github.com/wch3n).
-* citations: 
+* publications: 
   [google scholar](https://scholar.google.com/citations?user=ouy6ESIAAAAJa),
   [orcid](http://orcid.org/0000-0002-7496-0341).
 
 #### research interests
-- electronic structure 
 - condensed matter physics
-- liquid systems
+- electronic structure 
 - density functional theory
 - many-body perturbation theory
-- ab initio molecular dynamics
 - high-throughput computational screening
 
 {% for post in site.posts %}
