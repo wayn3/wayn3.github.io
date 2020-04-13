@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wei Chen, Dr. rer. nat.
+title: Wei Chen
 ---
 
 #### basics
