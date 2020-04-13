@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wei Chen (\#CompPhys)
+title: Wei Chen (#CompPhys)
 ---
 
 #### basics
