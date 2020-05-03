@@ -2,8 +2,9 @@
 # site.title, site.url, site.author.name
 
 title:   'Dr. Wei Chen (#CompPhys)'
-author:
-  name:  'waynechen at gmail.com'
+author:  
+  name:  'Wei Chen'
+description:  'computational physics, condensed matter, electronic structure'
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
