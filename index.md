@@ -12,11 +12,10 @@ title: Wei Chen (#CompPhys)
   [Orcid](http://orcid.org/0000-0002-7496-0341).
 
 #### research interests
-- Electronic structure
-  ... Development of highly-accurate hybrid density-functional theory 
-      and many-body perturbation theory methods for condensed matter systems
-- High-throughput computational screening
-  ... Magnetic materials, emerging photovoltaic materials
+- Highly-accurate hybrid density-functional theory 
+  and many-body perturbation theory methods for condensed matter systems
+- Defect physics in semiconductors
+- High-throughput computational screening for magnetic materials and emerging photovoltaic materials
 
 {% for post in site.posts %}
 
