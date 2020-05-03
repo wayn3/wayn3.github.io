@@ -5,7 +5,7 @@ title: Wei Chen (#CompPhys)
 
 #### basics
 * now at UCLouvain (be).
-* curriculum vitae in [pdf] (cv.pdf).
+* curriculum vitae in [pdf](cv.pdf).
 * github: [wch3n](http://github.com/wch3n).
 * profile: 
   [Google Scholar](https://scholar.google.com/citations?user=ouy6ESIAAAAJa),
