@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dr. Wei Chen
+title: Wei Chen
 ---
 
 * now at uclouvain.be
