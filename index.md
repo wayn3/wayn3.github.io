@@ -15,7 +15,9 @@ title: Wei Chen (#CompPhys)
 - Highly-accurate hybrid density-functional theory 
   and many-body perturbation theory methods for condensed matter systems
 - Defect physics in semiconductors
-- High-throughput computational screening for magnetic materials and emerging photovoltaic materials
+- High-throughput computational screening 
+- Ferromagnetic semiconducting materials 
+- Emerging photovoltaic materials (CZTSSe)
 
 {% for post in site.posts %}
 
