@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wei Chen (#CompPhys)
+title: Dr. Wei Chen
 ---
 
 * now at uclouvain.be
