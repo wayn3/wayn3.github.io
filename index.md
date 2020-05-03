@@ -8,8 +8,8 @@ title: Wei Chen (#CompPhys)
 * curriculum vitae ([pdf](cv.pdf)).
 * github: [wch3n](http://github.com/wch3n).
 * publications: 
-  [google scholar](https://scholar.google.com/citations?user=ouy6ESIAAAAJa),
-  [orcid](http://orcid.org/0000-0002-7496-0341).
+  [Google scholar](https://scholar.google.com/citations?user=ouy6ESIAAAAJa),
+  [Orcid](http://orcid.org/0000-0002-7496-0341).
 
 #### research interests
 - computational condensed matter physics
