@@ -4,12 +4,12 @@ title: Wei Chen (#CompPhys)
 ---
 
 #### basics
-* now at UCLouvain (be).
-* curriculum vitae in [pdf](cv.pdf).
-* github: [wch3n](http://github.com/wch3n).
+* now at UCLouvain (be)
+* curriculum vitae in [pdf](cv.pdf)
+* github ([wch3n](http://github.com/wch3n))
 * profile: 
   [Google Scholar](https://scholar.google.com/citations?user=ouy6ESIAAAAJa),
-  [Orcid](http://orcid.org/0000-0002-7496-0341).
+  [Orcid](http://orcid.org/0000-0002-7496-0341)
 
 #### research interests
 - Highly-accurate hybrid density-functional theory 
