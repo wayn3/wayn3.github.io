@@ -17,6 +17,9 @@ url:  'http://wch3n.github.io/'
 
 markdown: kramdown
 
+plugins:
+  - jekyll-seo-tag
+
 sass:
   sass_dir: css
   style:    expanded
