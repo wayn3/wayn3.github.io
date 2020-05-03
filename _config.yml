@@ -4,7 +4,7 @@
 title:   'Dr. Wei Chen (#CompPhys)'
 author:  
   name:  'Wei Chen'
-description:  'computational physics, condensed matter, electronic structure'
+description:  'computational condensed matter physics'
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
