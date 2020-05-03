@@ -3,7 +3,7 @@ layout: default
 title: Wei Chen (#CompPhys)
 ---
 
-* now at UCLouvain (be)
+* now at uclouvain.be
 * curriculum vitae in [pdf](cv.pdf)
 * github ([wch3n](http://github.com/wch3n))
 * research profile: 
