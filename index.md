@@ -10,7 +10,7 @@ title: Wei Chen (#CompPhys)
   [Google Scholar](https://scholar.google.com/citations?user=ouy6ESIAAAAJa),
   [ORCID](http://orcid.org/0000-0002-7496-0341)
 
-#### research interests
+## research interests
 - Highly-accurate hybrid density-functional theory 
   and many-body perturbation theory methods for condensed matter systems
 - Defect physics in semiconductors
