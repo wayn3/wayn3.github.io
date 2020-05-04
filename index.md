@@ -11,12 +11,12 @@ title: Wei Chen
   [ORCID](http://orcid.org/0000-0002-7496-0341)
 
 ### research interests
-- Highly-accurate hybrid density-functional theory 
+- Highly accurate hybrid density-functional theory 
   and many-body perturbation theory methods for condensed matter systems
 - Defect physics in semiconductors
-- High-throughput and data-driven material discovery
-- Ferromagnetic semiconducting materials 
-- Emerging photovoltaic materials (CZTSSe)
+- High-throughput and data-driven materials discovery
+- Ferromagnetic semiconducting materials for spintronic devices
+- Emerging thin-film photovoltaic materials
 
 {% for post in site.posts %}
 
