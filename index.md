@@ -3,7 +3,7 @@ layout: default
 title: Wei Chen
 ---
 
-* wei.chen\_at\_uclouvain.be
+* now at uclouvain.be
 * curriculum vitae in [pdf](_doc/cv.pdf)
 * github ([wch3n](http://github.com/wch3n))
 * research profile: 
