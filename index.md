@@ -4,7 +4,7 @@ title: Wei Chen
 ---
 
 * now at uclouvain.be
-* curriculum vitae in [pdf](_doc/cv.pdf)
+* curriculum vitae in [pdf](docs/cv.pdf)
 * github ([wch3n](http://github.com/wch3n))
 * research profile: 
   [Google Scholar](https://scholar.google.com/citations?user=ouy6ESIAAAAJa),
